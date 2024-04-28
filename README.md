@@ -4,7 +4,9 @@ Must improve the following codes to implement SOLID principles in OOP.
 
 
 1. You must provide the description of the problem and the UML Class Diagram in readMe file.
-    Link to UML Class Diagram: https://drive.google.com/file/d/1tgRaks6LcH_DWgXFKGtbsg2Pmq8IueWR/view?usp=sharing
+
+Link to UML Class Diagram: https://drive.google.com/file/d/1tgRaks6LcH_DWgXFKGtbsg2Pmq8IueWR/view?usp=sharing
+
 3. Include all the codes in your gitHub repository.
 4. Submit the link of your solution written in your gitHub repository.
 
